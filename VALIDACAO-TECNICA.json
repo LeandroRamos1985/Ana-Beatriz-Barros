@@ -1,0 +1,142 @@
+{
+  "local_links": [
+    {
+      "page": "index.html",
+      "href": "atendimento-rio.html"
+    },
+    {
+      "page": "index.html",
+      "href": "privacy.html"
+    },
+    {
+      "page": "index.html",
+      "href": "termos.html"
+    },
+    {
+      "page": "privacy.html",
+      "href": "index.html"
+    },
+    {
+      "page": "termos.html",
+      "href": "index.html"
+    },
+    {
+      "page": "obrigado.html",
+      "href": "index.html"
+    },
+    {
+      "page": "404.html",
+      "href": "index.html"
+    },
+    {
+      "page": "atendimento-rio.html",
+      "href": "index.html"
+    }
+  ],
+  "missing_local_links": [],
+  "assets": [
+    {
+      "page": "index.html",
+      "src": "assets/hero-motion.mp4"
+    },
+    {
+      "page": "index.html",
+      "src": "assets/ana-hero.jpg"
+    },
+    {
+      "page": "index.html",
+      "src": "assets/ana-about.jpg"
+    },
+    {
+      "page": "index.html",
+      "src": "assets/ana-hero.webp"
+    },
+    {
+      "page": "index.html",
+      "src": "assets/ana-about.webp"
+    }
+  ],
+  "missing_assets": [],
+  "pages": {
+    "privacy.html": [
+      {
+        "width": 390,
+        "scrollWidth": 390,
+        "innerWidth": 390,
+        "errors": [],
+        "h1": 1
+      },
+      {
+        "width": 1440,
+        "scrollWidth": 1440,
+        "innerWidth": 1440,
+        "errors": [],
+        "h1": 1
+      }
+    ],
+    "termos.html": [
+      {
+        "width": 390,
+        "scrollWidth": 390,
+        "innerWidth": 390,
+        "errors": [],
+        "h1": 1
+      },
+      {
+        "width": 1440,
+        "scrollWidth": 1440,
+        "innerWidth": 1440,
+        "errors": [],
+        "h1": 1
+      }
+    ],
+    "obrigado.html": [
+      {
+        "width": 390,
+        "scrollWidth": 390,
+        "innerWidth": 390,
+        "errors": [],
+        "h1": 1
+      },
+      {
+        "width": 1440,
+        "scrollWidth": 1440,
+        "innerWidth": 1440,
+        "errors": [],
+        "h1": 1
+      }
+    ],
+    "404.html": [
+      {
+        "width": 390,
+        "scrollWidth": 390,
+        "innerWidth": 390,
+        "errors": [],
+        "h1": 1
+      },
+      {
+        "width": 1440,
+        "scrollWidth": 1440,
+        "innerWidth": 1440,
+        "errors": [],
+        "h1": 1
+      }
+    ],
+    "atendimento-rio.html": [
+      {
+        "width": 390,
+        "scrollWidth": 390,
+        "innerWidth": 390,
+        "errors": [],
+        "h1": 1
+      },
+      {
+        "width": 1440,
+        "scrollWidth": 1440,
+        "innerWidth": 1440,
+        "errors": [],
+        "h1": 1
+      }
+    ]
+  }
+}
